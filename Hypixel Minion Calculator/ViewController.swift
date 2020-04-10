@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Hypixel Minion Calculator
 //
-//  Created by Hiro on 4/10/20.
-//  Copyright © 2020 Hiro. All rights reserved.
+//  Created by Chaboi45 on 4/10/20.
+//  Copyright © 2020 Chaboi45 All rights reserved.
 //
 
 import UIKit
